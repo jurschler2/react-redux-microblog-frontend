@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-microblog-frontend",
+  "name": "react-redux-microblog",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
